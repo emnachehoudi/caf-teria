@@ -1,0 +1,11 @@
+
+.bg-body{
+    text-align: center;
+    background-image: url("bgcoffe.png") ;
+    background-size: cover;
+    margin: auto;
+     background-repeat: no-repeat;
+}
+.text-bg-dark{
+    background-color: brown;
+}
